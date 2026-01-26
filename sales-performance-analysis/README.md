@@ -1,21 +1,19 @@
-# Sales Performance Analysis
+# Customer Behavior Analysis
 
 ## Problem Statement
-Analyze retail sales data to understand revenue trends, top-performing products, and regional performance.
+Analyze customer shopping behavior to understand purchasing patterns, spending habits, and key factors influencing sales.
 
 ## Dataset
-(To be added)
+Customer Shopping Behavior Dataset
 
 ## Tools & Technologies
 - Python (Pandas, NumPy)
-- SQL
-- Power BI
 - Exploratory Data Analysis (EDA)
 
 ## Key Questions
-- Which products generate the highest revenue?
-- How does sales performance vary by region?
-- Are there seasonal or monthly trends in sales?
+- Which customer segments spend the most?
+- How does purchase amount vary by category?
+- Are there patterns based on age or gender?
 
 ## Status
 In progress
