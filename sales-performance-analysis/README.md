@@ -18,4 +18,5 @@ Analyze retail sales data to understand revenue trends, top-performing products,
 - Are there seasonal or monthly trends in sales?
 
 ## Status
-In progress
+Planned !
+
