@@ -11,7 +11,6 @@ This project demonstrates the **complete analytics workflow used by data analyst
 ![Customer Behavior Dashboard](images/dashboard_preview.png)
 
 ---
-
 ## 🎯 Business Problem
 
 Retail companies collect large volumes of customer transaction data, but without proper analysis it is difficult to understand:
@@ -23,7 +22,24 @@ Retail companies collect large volumes of customer transaction data, but without
 This project analyzes customer data to uncover **key revenue drivers and customer segments**.
 
 ---
+## 📊 Data Source
 
+The dataset used in this project contains retail customer transaction data including demographic attributes and purchase behavior.
+
+**Source:** Kaggle
+**Dataset:** Customer Shopping Behavior Dataset
+
+The dataset includes the following key attributes:
+
+* Customer demographics (age, gender)
+* Product category and purchase details
+* Purchase amount and transaction behavior
+* Subscription status and shipping type
+* Seasonal purchasing trends
+
+This dataset was used to analyze **customer purchasing patterns, revenue distribution, and behavioral segmentation**. 
+
+---
 ## 🛠 Tech Stack
 
 ### Data Processing
