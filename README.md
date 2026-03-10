@@ -11,8 +11,9 @@ The focus is on learning through projects rather than tutorials.
 - Data Cleaning & Preprocessing
 
 ## Projects
-- Sales Performance Analysis (in progress)
-- Customer Behavior Analysis (planned)
+- Customer Behavior Analysis (in progress)
+- Sales Performance Analysis (planned)
+
 
 Each project includes:
 - Problem statement
