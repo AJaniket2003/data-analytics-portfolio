@@ -27,6 +27,7 @@ This project analyzes customer data to uncover **key revenue drivers and custome
 The dataset used in this project contains retail customer transaction data including demographic attributes and purchase behavior.
 
 **Source:** Kaggle
+
 **Dataset:** Customer Shopping Behavior Dataset
 
 The dataset includes the following key attributes:
